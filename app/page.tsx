@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main style={{ padding: '40px', fontFamily: 'sans-serif' }}>
       <h1>Cloud Computing & CI/CD Deployment</h1>
-      <p><strong>Student:</strong> Tsako Waba Merisa | Cloud Computing</p>
+      <p><strong>Student:</strong> TSAKO WABA MERISA | Cloud Computing</p>
       
       <section style={{ marginTop: '20px' }}>
         <h2>Cloud Computing</h2>
